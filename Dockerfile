@@ -10,5 +10,6 @@ COPY . .
 EXPOSE 3000
 
 # RUN npm run build
+# this work?
 
 CMD ["npm", "start"]
